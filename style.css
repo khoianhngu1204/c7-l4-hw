@@ -1,0 +1,8 @@
+.accordion{
+  margin: 20px;
+  padding: 10px;
+}
+
+.accordion-body{
+  background-color: rgb(233, 233, 233);
+}
